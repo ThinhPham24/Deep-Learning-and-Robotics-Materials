@@ -1,4 +1,4 @@
-# Deep-Learning-Materials
+# Deep-Learning-and-Robotics-Materials
 This repo consists of collected materials for a preliminary deep learning approach.
 
 ## Course materials
