@@ -3,4 +3,4 @@ This repo consists of collected materials for a preliminary deep learning approa
 
 # Course materials
 
-1. Deep Learning Bible - 2. Classification - Eng - [Classification](https://wikidocs.net/book/7972)
+1. Deep Learning Bible Architecture - Eng - [Classification](https://wikidocs.net/book/7972)
