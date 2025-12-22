@@ -15,3 +15,7 @@ This repo consists of collected materials for a preliminary deep learning approa
 
 ## 3. Robotic technique
 
+## 4. Applications
+
+### a. Theory - [Grasping manipulation (MIT)](https://manipulation.csail.mit.edu/clutter.html) 
+
